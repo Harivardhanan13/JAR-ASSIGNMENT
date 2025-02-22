@@ -23,3 +23,16 @@
   -> Edited Relationship between all visualization for sync and to see the total sales and average profit of the underperforming regions.
 
   -> Made Some Adjustments and colour grading for better Look.
+
+
+
+  # DASHBORD
+
+     ![Screenshot 2025-02-23 043115](https://github.com/user-attachments/assets/fd2ba1fd-0ab1-4304-9cf2-745479a0fcd1)
+
+
+
+
+     ![Screenshot 2025-02-23 043052](https://github.com/user-attachments/assets/ca1a3711-a0d8-4c65-b96f-ebdf7edfbcaf)
+
+

@@ -28,7 +28,7 @@
 
   # DASHBORD
 
-     ![Screenshot 2025-02-23 043115](https://github.com/user-attachments/assets/fd2ba1fd-0ab1-4304-9cf2-745479a0fcd1)
+    [ ![Screenshot 2025-02-23 043115](https://github.com/user-attachments/assets/fd2ba1fd-0ab1-4304-9cf2-745479a0fcd1)](https://github.com/Harivardhanan13/JAR-ASSIGNMENT/blob/main/Screenshot%202025-02-23%20043115.png)
 
 
 
